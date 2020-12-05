@@ -26,8 +26,7 @@ namespace Library.Core.Services
 
         public async Task InsertAuthor(Author autor)
         {
-            //Poner este metodo que retorne boolean
-            
+     
             //Author Validations
             autor.Id = 0;
 
