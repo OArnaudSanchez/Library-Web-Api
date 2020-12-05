@@ -1,0 +1,9 @@
+C:\Users\Cheche\Desktop\Library\Library.Core\bin\Debug\netcoreapp3.1\Library.Core.deps.json
+C:\Users\Cheche\Desktop\Library\Library.Core\bin\Debug\netcoreapp3.1\Library.Core.dll
+C:\Users\Cheche\Desktop\Library\Library.Core\bin\Debug\netcoreapp3.1\Library.Core.pdb
+C:\Users\Cheche\Desktop\Library\Library.Core\obj\Debug\netcoreapp3.1\Library.Core.csprojAssemblyReference.cache
+C:\Users\Cheche\Desktop\Library\Library.Core\obj\Debug\netcoreapp3.1\Library.Core.AssemblyInfoInputs.cache
+C:\Users\Cheche\Desktop\Library\Library.Core\obj\Debug\netcoreapp3.1\Library.Core.AssemblyInfo.cs
+C:\Users\Cheche\Desktop\Library\Library.Core\obj\Debug\netcoreapp3.1\Library.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cheche\Desktop\Library\Library.Core\obj\Debug\netcoreapp3.1\Library.Core.dll
+C:\Users\Cheche\Desktop\Library\Library.Core\obj\Debug\netcoreapp3.1\Library.Core.pdb

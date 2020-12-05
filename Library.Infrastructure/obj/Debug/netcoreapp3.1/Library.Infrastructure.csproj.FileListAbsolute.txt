@@ -1,0 +1,15 @@
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.deps.json
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.runtimeconfig.json
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.runtimeconfig.dev.json
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.dll
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.pdb
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Core.dll
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Core.pdb
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.csproj.CopyComplete
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.dll
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.pdb
+C:\Users\Cheche\Desktop\Library\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.genruntimeconfig.cache
