@@ -36,7 +36,8 @@ namespace Library.Infrastructure.Repositories
         {
             var currentGenero = await GetGender(genero.Id);
 
-            _context.Entry(genero).State = EntityState.Modified;
+            currentGenero.NameGender = genero.NameGender;
+            
            return await _context.SaveChangesAsync() > 0;
         }
         public async Task<bool> DeleteGender(int id)
